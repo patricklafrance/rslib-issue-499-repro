@@ -1,6 +1,6 @@
 # rslib-issue-499-repro
 
-Issue: https://github.com/web-infra-dev/rslib/issues/499#issuecomment-2508881253
+Issue: https://github.com/web-infra-dev/rslib/issues/499
 
 To reproduce:
 
